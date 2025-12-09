@@ -1,0 +1,9 @@
+node_modules/
+upload/
+dist/
+.vscode/
+.env*
+files/
+package-lock.json
+logfiles/
+coverage/
