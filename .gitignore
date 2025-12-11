@@ -7,3 +7,4 @@ files/
 package-lock.json
 logfiles/
 coverage/
+node_modules
